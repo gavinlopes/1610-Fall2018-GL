@@ -1,16 +1,21 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class MouseEventBehavior : MonoBehaviour {
 
-	// Use this for initialization
-	void Start () {
-		
-	}
+	public UnityEvent MouseDown;
+	public UnityEvent MouseUp;
+
 	
-	// Update is called once per frame
-	void Update () {
-		
+	private void OnMouseDown() {
+		MouseDown.Invoke();
+	}
+
+	private void OnMouseUp()
+	{
+		MouseUp.Invoke();
 	}
 }
+	
