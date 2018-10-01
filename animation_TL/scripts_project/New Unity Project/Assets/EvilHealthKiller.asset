@@ -11,4 +11,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8162b8cb8b91647b3b374a960f0ad927, type: 3}
   m_Name: EvilHealthKiller
   m_EditorClassIdentifier: 
-  Value: 0
+  Value: -10
