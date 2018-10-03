@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.Events;
 
+[CreateAssetMenu]
 public class DivideValue : ScriptableObject 
 {
 	public FloatData ValueObj;
