@@ -2,15 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FloatData : MonoBehaviour {
-
-	// Use this for initialization
-	void Start () {
-		
-	}
+public class FloatData : ScriptableObject
+{
 	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+ 
 }
+	
+
