@@ -9,6 +9,6 @@ public class MultipleValue : ScriptableObject
 
 	public void MultipleValuetoObj (FloatData data)
 	{
-		ValueObj.Value x= data.Value;
+		ValueObj.Value *= data.Value;
 	}
 }
