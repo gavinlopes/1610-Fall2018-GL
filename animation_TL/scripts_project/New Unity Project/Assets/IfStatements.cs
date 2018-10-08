@@ -18,7 +18,7 @@ public class IfStatements : MonoBehaviour
 			print("Wizard wins");
 		}
 
-		if (Lighton)
+		if (LightOn)
 		{
 			print("The light is on.");
 		}
