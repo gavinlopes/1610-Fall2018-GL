@@ -5,5 +5,5 @@ using UnityEngine;
 [CreateAssetMenu]
 public class ObjectCollection : ScriptableObject
 {
-	public List<string> ObjectList;	
+	public List<ScriptableObject> ObjectList;	
 }
