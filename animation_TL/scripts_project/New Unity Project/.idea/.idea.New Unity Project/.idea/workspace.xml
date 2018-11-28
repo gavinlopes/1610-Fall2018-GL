@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03de9c88-db65-469e-a270-8d6456293a9c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/scripts/CharacterMover.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/CharacterMover.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,14 +14,14 @@
     <session id="-295848875">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.13" value="1" />
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.22" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -52,15 +51,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/scripts/CharacterMover.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="24" column="60" selection-start-line="24" selection-start-column="60" selection-end-line="24" selection-end-column="60" />
+            <state relative-caret-position="153">
+              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
               <folding>
-                <marker date="1543272272673" expanded="false" signature="6:78" ph="..." />
-                <marker date="1543272272673" expanded="true" signature="124:824" ph="{...}" />
-                <marker date="1543272272673" expanded="true" signature="335:394" ph="{...}" />
-                <marker date="1543272272673" expanded="true" signature="413:822" ph="{...}" />
-                <marker date="1543272272673" expanded="true" signature="445:730" ph="{...}" />
-                <marker date="1543272272673" expanded="true" signature="687:726" ph="{...}" />
+                <marker date="1543433272078" expanded="false" signature="6:78" ph="..." />
+                <marker date="1543433272078" expanded="true" signature="124:822" ph="{...}" />
+                <marker date="1543433272078" expanded="true" signature="335:394" ph="{...}" />
+                <marker date="1543433272078" expanded="true" signature="413:820" ph="{...}" />
+                <marker date="1543433272078" expanded="true" signature="445:728" ph="{...}" />
+                <marker date="1543433272078" expanded="true" signature="685:724" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -101,8 +100,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="562" />
-    <option name="y" value="28" />
+    <option name="x" value="500" />
+    <option name="y" value="23" />
     <option name="width" value="1009" />
     <option name="height" value="549" />
   </component>
@@ -112,12 +111,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
       <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
-      </pane>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
       </pane>
     </panes>
   </component>
@@ -170,11 +169,12 @@
       <workItem from="1543205770988" duration="2039000" />
       <workItem from="1543209525762" duration="1721000" />
       <workItem from="1543270804422" duration="1338000" />
+      <workItem from="1543433231694" duration="103000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7199000" />
+    <option name="totallyTimeSpent" value="7302000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -186,10 +186,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="562" y="28" width="1009" height="549" extended-state="0" />
+    <frame x="500" y="23" width="1009" height="549" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2719752" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2771458" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -266,10 +266,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-          <folding>
-            <marker date="1543210783772" expanded="true" signature="24:133" ph="{...}" />
-            <marker date="1543210783772" expanded="true" signature="50:108" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -277,26 +273,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="64" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
-          <folding>
-            <marker date="1543211086265" expanded="true" signature="6:104" ph="..." />
-            <marker date="1543211086265" expanded="true" signature="151:694" ph="{...}" />
-            <marker date="1543211086265" expanded="true" signature="308:692" ph="{...}" />
-            <marker date="1543211086265" expanded="true" signature="333:689" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/scripts/CharacterMover.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="24" column="60" selection-start-line="24" selection-start-column="60" selection-end-line="24" selection-end-column="60" />
+        <state relative-caret-position="153">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
           <folding>
-            <marker date="1543272272673" expanded="false" signature="6:78" ph="..." />
-            <marker date="1543272272673" expanded="true" signature="124:824" ph="{...}" />
-            <marker date="1543272272673" expanded="true" signature="335:394" ph="{...}" />
-            <marker date="1543272272673" expanded="true" signature="413:822" ph="{...}" />
-            <marker date="1543272272673" expanded="true" signature="445:730" ph="{...}" />
-            <marker date="1543272272673" expanded="true" signature="687:726" ph="{...}" />
+            <marker date="1543433272078" expanded="false" signature="6:78" ph="..." />
+            <marker date="1543433272078" expanded="true" signature="124:822" ph="{...}" />
+            <marker date="1543433272078" expanded="true" signature="335:394" ph="{...}" />
+            <marker date="1543433272078" expanded="true" signature="413:820" ph="{...}" />
+            <marker date="1543433272078" expanded="true" signature="445:728" ph="{...}" />
+            <marker date="1543433272078" expanded="true" signature="685:724" ph="{...}" />
           </folding>
         </state>
       </provider>
