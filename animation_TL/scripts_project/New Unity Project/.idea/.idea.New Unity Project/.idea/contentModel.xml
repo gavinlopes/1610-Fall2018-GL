@@ -6,6 +6,7 @@
       <e p="Assets" t="Include">
         <e p="Final_Game_Scripts" t="Include">
           <e p="CoinPickup.cs" t="Include" />
+          <e p="playerCoins.cs" t="Include" />
         </e>
         <e p="scripts" t="Include">
           <e p="AddToCollection.cs" t="Include" />

@@ -10,6 +10,8 @@ public class CoinPickup : MonoBehaviour {
 	{
 		if (other.CompareTag("Player"))
 		{
+			other.GetComponent<playerCoins>().points++;
+			
 			Destroy(gameObject);
 		}
 	}
