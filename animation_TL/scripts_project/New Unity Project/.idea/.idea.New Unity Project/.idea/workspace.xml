@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03de9c88-db65-469e-a270-8d6456293a9c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/scripts/CharacterMover.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/CharacterMover.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,35 +15,36 @@
     <session id="-295848875">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="12" />
+          <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.13" value="5" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.22" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="3" />
+          <entry key="cs" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="3" />
+          <entry key="C#" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="921" />
+          <entry key="cs" value="1620" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="921" />
+          <entry key="C#" value="1620" />
         </counts>
       </usages-collector>
     </session>
@@ -51,17 +52,14 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/scripts/CharacterMover.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Final_Game_Scripts/TakeDamage.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+            <state relative-caret-position="135">
+              <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
               <folding>
-                <marker date="1543443665608" expanded="false" signature="6:78" ph="..." />
-                <marker date="1543443665608" expanded="true" signature="124:824" ph="{...}" />
-                <marker date="1543443665608" expanded="true" signature="335:394" ph="{...}" />
-                <marker date="1543443665608" expanded="true" signature="413:822" ph="{...}" />
-                <marker date="1543443665608" expanded="true" signature="445:730" ph="{...}" />
-                <marker date="1543443665608" expanded="true" signature="687:726" ph="{...}" />
+                <marker date="1544230106798" expanded="false" signature="6:104" ph="..." />
+                <marker date="1544230106798" expanded="true" signature="145:278" ph="{...}" />
+                <marker date="1544230106798" expanded="true" signature="212:271" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -80,6 +78,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/scripts/ObjectCollection.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/GameStates.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/scripts/SwitchStatements.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Final_Game_Scripts/TakeDamage.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -92,6 +91,9 @@
         <option value="$PROJECT_DIR$/Assets/scripts/GameStates.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/SwitchStatements.cs" />
         <option value="$PROJECT_DIR$/Assets/scripts/CharacterMover.cs" />
+        <option value="$PROJECT_DIR$/Assets/Final_Game_Scripts/NinjaHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/Final_Game_Scripts/ChickenAttack.cs" />
+        <option value="$PROJECT_DIR$/Assets/Final_Game_Scripts/TakeDamage.cs" />
       </list>
     </option>
   </component>
@@ -102,8 +104,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="346" />
-    <option name="y" value="48" />
+    <option name="x" value="447" />
+    <option name="y" value="75" />
     <option name="width" value="1009" />
     <option name="height" value="549" />
   </component>
@@ -113,13 +115,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
       </pane>
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -173,11 +175,16 @@
       <workItem from="1543270804422" duration="1338000" />
       <workItem from="1543433231694" duration="103000" />
       <workItem from="1543442644086" duration="1366000" />
+      <workItem from="1544222228418" duration="80000" />
+      <workItem from="1544223093000" duration="237000" />
+      <workItem from="1544223394863" duration="386000" />
+      <workItem from="1544224061789" duration="1760000" />
+      <workItem from="1544229866452" duration="245000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8668000" />
+    <option name="totallyTimeSpent" value="11376000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -189,9 +196,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="346" y="48" width="1009" height="549" extended-state="0" />
+    <frame x="447" y="75" width="1009" height="549" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28231645" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3123061" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -282,13 +290,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Final_Game_Scripts/NinjaHealth.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Final_Game_Scripts/ChickenAttack.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Final_Game_Scripts/TakeDamage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
           <folding>
-            <marker date="1543443665608" expanded="false" signature="6:78" ph="..." />
-            <marker date="1543443665608" expanded="true" signature="124:824" ph="{...}" />
-            <marker date="1543443665608" expanded="true" signature="335:394" ph="{...}" />
-            <marker date="1543443665608" expanded="true" signature="413:822" ph="{...}" />
-            <marker date="1543443665608" expanded="true" signature="445:730" ph="{...}" />
-            <marker date="1543443665608" expanded="true" signature="687:726" ph="{...}" />
+            <marker date="1544230106798" expanded="false" signature="6:104" ph="..." />
+            <marker date="1544230106798" expanded="true" signature="145:278" ph="{...}" />
+            <marker date="1544230106798" expanded="true" signature="212:271" ph="{...}" />
           </folding>
         </state>
       </provider>
