@@ -1,10 +1,10 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class playerCoins : MonoBehaviour
 {
-
 	public int points = 0;
 
 	// Use this for initialization
@@ -19,6 +19,6 @@ public class playerCoins : MonoBehaviour
 
 	private void OnGUI()
 	{
-		GUI.Label(new Rect(10, 10, 100, 20), "Coins : " + points);
+		GUI.Label(new Rect(10, 10, 500, 70), "Coins : " + points);
 	}
 }

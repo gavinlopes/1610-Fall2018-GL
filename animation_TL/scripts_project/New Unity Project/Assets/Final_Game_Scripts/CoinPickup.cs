@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-public class CoinPickup : MonoBehaviour {
-	
+public class CoinPickup : MonoBehaviour
+{
+
 	private void OnTriggerEnter(Collider other)
 	
 	{
