@@ -19,6 +19,6 @@ public class playerCoins : MonoBehaviour
 
 	private void OnGUI()
 	{
-		GUI.Label(new Rect(10, 10, 500, 70), "Coins : " + points);
+		GUI.Label(new Rect(10, 10, 500, 70), "Overall Score : " + points);
 	}
 }

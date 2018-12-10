@@ -21,5 +21,6 @@ public class Star : MonoBehaviour
 	{
 		Debug.Log(name);
 		Destroy(gameObject);
+		Destroy(other.gameObject);
 	}
 }
