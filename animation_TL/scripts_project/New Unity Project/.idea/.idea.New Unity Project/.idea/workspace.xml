@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03de9c88-db65-469e-a270-8d6456293a9c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.New Unity Project/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Final_Game_Scripts/power-up.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Final_Game_Scripts/power-up.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Health.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Health.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/FinalGame_NVC.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/FinalGame_NVC.unity" afterDir="false" />
-    </list>
+    <list default="true" id="03de9c88-db65-469e-a270-8d6456293a9c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +12,7 @@
     <session id="-295848875">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="25" />
+          <entry key="project.closed" value="26" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="6" />
           <entry key="project.open.time.12" value="4" />
@@ -351,12 +346,12 @@
       <workItem from="1544472080591" duration="11000" />
       <workItem from="1544472125965" duration="452000" />
       <workItem from="1544472837120" duration="1163000" />
-      <workItem from="1544505116381" duration="268000" />
+      <workItem from="1544505116381" duration="457000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22374000" />
+    <option name="totallyTimeSpent" value="22563000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -369,7 +364,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="292" y="151" width="1009" height="549" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.40434334" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
